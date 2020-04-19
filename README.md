@@ -1,2 +1,2 @@
-# hello-earth
-my first repository
+good day
+
